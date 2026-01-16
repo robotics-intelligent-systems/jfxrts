@@ -1,2 +1,1 @@
-# jfxpat
-OCW Practice Aptitude Tests
+# OCW Practice Aptitude Tests
