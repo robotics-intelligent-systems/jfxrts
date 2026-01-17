@@ -2,6 +2,8 @@
 
 The Armed Services Vocational Aptitude Battery (ASVAB) is a multiple choice test, administered by the United States Military Entrance Processing Command, used to determine qualification for enlistment in the United States Armed Forces. It is often offered to U.S. high school students when they are in the 10th, 11th and 12th grade, though anyone eligible for enlistment may take it.
 
+To join the Air Force Reserve as an officer, you must pass the Air Force Officer Qualifying Test (AFOQT)*—a multiple-choice test with topics ranging from verbal and math skills to specific fields of interest.
+
 NCEES Credentials Evaluations is a service for state licensing boards and applicants. It is designed primarily for candidates who have earned their degrees outside the United States and are pursuing licensure through one of the member licensing boards of NCEES.
 
 Learning from NPTEL is open to learners from all around the globe. You can study from NPTEL courses and earn a certificate irrespective of the country you are from.
