@@ -4,6 +4,8 @@ The Armed Services Vocational Aptitude Battery (ASVAB) is a multiple choice test
 
 NCEES Credentials Evaluations is a service for state licensing boards and applicants. It is designed primarily for candidates who have earned their degrees outside the United States and are pursuing licensure through one of the member licensing boards of NCEES.
 
+Learning from NPTEL is open to learners from all around the globe. You can study from NPTEL courses and earn a certificate irrespective of the country you are from.
+
 Try a free practice aptitude test from the 16 test types below to prepare for your psychometric tests. All our assessments are written by accredited industry experts and are designed to replicate real exams used by leading employers.
 
 Each has a strict time limit and at the end of the test you can view your score, benchmark and the full solutions to all the questions.
